@@ -1,0 +1,533 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'inst3|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -7.730
+TNS   : -378.979
+
+Type  : Slow 1200mV 85C Model Setup 'timeAndDateClock:inst2|day_carry'
+Slack : -5.809
+TNS   : -50.152
+
+Type  : Slow 1200mV 85C Model Setup 'dcf77_decoder:inst|counter_decoder[0]'
+Slack : -4.789
+TNS   : -285.069
+
+Type  : Slow 1200mV 85C Model Setup 'timeAndDateClock:inst2|hour_carry'
+Slack : -4.711
+TNS   : -30.150
+
+Type  : Slow 1200mV 85C Model Setup 'timeAndDateClock:inst2|mon_carry'
+Slack : -4.368
+TNS   : -25.249
+
+Type  : Slow 1200mV 85C Model Setup 'GenClockDCF:inst1|CLK_ENA_HZ_async_out'
+Slack : -4.099
+TNS   : -120.807
+
+Type  : Slow 1200mV 85C Model Setup 'timeAndDateClock:inst2|min_carry'
+Slack : -3.887
+TNS   : -29.794
+
+Type  : Slow 1200mV 85C Model Setup 'timeAndDateClock:inst2|year_carry'
+Slack : -3.441
+TNS   : -26.733
+
+Type  : Slow 1200mV 85C Model Setup 'GenClockDCF:inst1|CLK_ENA_HZ_sync_out'
+Slack : -1.648
+TNS   : -6.299
+
+Type  : Slow 1200mV 85C Model Hold 'dcf77_decoder:inst|counter_decoder[0]'
+Slack : -0.249
+TNS   : -1.244
+
+Type  : Slow 1200mV 85C Model Hold 'inst3|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.342
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'GenClockDCF:inst1|CLK_ENA_HZ_async_out'
+Slack : 0.357
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'GenClockDCF:inst1|CLK_ENA_HZ_sync_out'
+Slack : 0.370
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'timeAndDateClock:inst2|year_carry'
+Slack : 0.635
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'timeAndDateClock:inst2|mon_carry'
+Slack : 0.929
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'timeAndDateClock:inst2|day_carry'
+Slack : 0.976
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'timeAndDateClock:inst2|min_carry'
+Slack : 0.983
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'timeAndDateClock:inst2|hour_carry'
+Slack : 1.002
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'timeAndDateClock:inst2|mon_carry'
+Slack : -3.316
+TNS   : -17.015
+
+Type  : Slow 1200mV 85C Model Recovery 'timeAndDateClock:inst2|min_carry'
+Slack : -3.313
+TNS   : -22.917
+
+Type  : Slow 1200mV 85C Model Recovery 'timeAndDateClock:inst2|hour_carry'
+Slack : -3.224
+TNS   : -19.776
+
+Type  : Slow 1200mV 85C Model Recovery 'GenClockDCF:inst1|CLK_ENA_HZ_async_out'
+Slack : -2.909
+TNS   : -129.966
+
+Type  : Slow 1200mV 85C Model Recovery 'timeAndDateClock:inst2|day_carry'
+Slack : -2.763
+TNS   : -25.365
+
+Type  : Slow 1200mV 85C Model Recovery 'GenClockDCF:inst1|CLK_ENA_HZ_sync_out'
+Slack : -2.576
+TNS   : -14.237
+
+Type  : Slow 1200mV 85C Model Recovery 'timeAndDateClock:inst2|year_carry'
+Slack : -2.375
+TNS   : -18.654
+
+Type  : Slow 1200mV 85C Model Recovery 'dcf77_decoder:inst|counter_decoder[0]'
+Slack : -2.176
+TNS   : -2.176
+
+Type  : Slow 1200mV 85C Model Removal 'dcf77_decoder:inst|counter_decoder[0]'
+Slack : 0.340
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'GenClockDCF:inst1|CLK_ENA_HZ_async_out'
+Slack : 0.394
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'timeAndDateClock:inst2|day_carry'
+Slack : 0.421
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'timeAndDateClock:inst2|hour_carry'
+Slack : 0.424
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'timeAndDateClock:inst2|mon_carry'
+Slack : 0.442
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'timeAndDateClock:inst2|min_carry'
+Slack : 0.512
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'timeAndDateClock:inst2|year_carry'
+Slack : 0.688
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'GenClockDCF:inst1|CLK_ENA_HZ_sync_out'
+Slack : 1.211
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'GenClockDCF:inst1|CLK_ENA_HZ_async_out'
+Slack : -1.000
+TNS   : -50.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'timeAndDateClock:inst2|day_carry'
+Slack : -1.000
+TNS   : -10.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'timeAndDateClock:inst2|min_carry'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'timeAndDateClock:inst2|year_carry'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'GenClockDCF:inst1|CLK_ENA_HZ_sync_out'
+Slack : -1.000
+TNS   : -7.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'timeAndDateClock:inst2|hour_carry'
+Slack : -1.000
+TNS   : -7.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'timeAndDateClock:inst2|mon_carry'
+Slack : -1.000
+TNS   : -6.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'dcf77_decoder:inst|counter_decoder[0]'
+Slack : -0.329
+TNS   : -12.436
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.835
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst3|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 49.739
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'inst3|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -6.759
+TNS   : -328.716
+
+Type  : Slow 1200mV 0C Model Setup 'timeAndDateClock:inst2|day_carry'
+Slack : -5.072
+TNS   : -43.702
+
+Type  : Slow 1200mV 0C Model Setup 'dcf77_decoder:inst|counter_decoder[0]'
+Slack : -4.255
+TNS   : -250.407
+
+Type  : Slow 1200mV 0C Model Setup 'timeAndDateClock:inst2|hour_carry'
+Slack : -4.145
+TNS   : -26.408
+
+Type  : Slow 1200mV 0C Model Setup 'timeAndDateClock:inst2|mon_carry'
+Slack : -3.838
+TNS   : -22.152
+
+Type  : Slow 1200mV 0C Model Setup 'GenClockDCF:inst1|CLK_ENA_HZ_async_out'
+Slack : -3.563
+TNS   : -102.562
+
+Type  : Slow 1200mV 0C Model Setup 'timeAndDateClock:inst2|min_carry'
+Slack : -3.377
+TNS   : -25.814
+
+Type  : Slow 1200mV 0C Model Setup 'timeAndDateClock:inst2|year_carry'
+Slack : -3.010
+TNS   : -22.955
+
+Type  : Slow 1200mV 0C Model Setup 'GenClockDCF:inst1|CLK_ENA_HZ_sync_out'
+Slack : -1.451
+TNS   : -5.109
+
+Type  : Slow 1200mV 0C Model Hold 'dcf77_decoder:inst|counter_decoder[0]'
+Slack : -0.203
+TNS   : -0.858
+
+Type  : Slow 1200mV 0C Model Hold 'inst3|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.297
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'GenClockDCF:inst1|CLK_ENA_HZ_async_out'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'GenClockDCF:inst1|CLK_ENA_HZ_sync_out'
+Slack : 0.370
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'timeAndDateClock:inst2|year_carry'
+Slack : 0.546
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'timeAndDateClock:inst2|day_carry'
+Slack : 0.865
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'timeAndDateClock:inst2|min_carry'
+Slack : 0.869
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'timeAndDateClock:inst2|mon_carry'
+Slack : 0.872
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'timeAndDateClock:inst2|hour_carry'
+Slack : 0.891
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'timeAndDateClock:inst2|mon_carry'
+Slack : -2.875
+TNS   : -14.736
+
+Type  : Slow 1200mV 0C Model Recovery 'timeAndDateClock:inst2|min_carry'
+Slack : -2.820
+TNS   : -19.614
+
+Type  : Slow 1200mV 0C Model Recovery 'timeAndDateClock:inst2|hour_carry'
+Slack : -2.757
+TNS   : -16.909
+
+Type  : Slow 1200mV 0C Model Recovery 'GenClockDCF:inst1|CLK_ENA_HZ_async_out'
+Slack : -2.482
+TNS   : -109.381
+
+Type  : Slow 1200mV 0C Model Recovery 'timeAndDateClock:inst2|day_carry'
+Slack : -2.350
+TNS   : -21.309
+
+Type  : Slow 1200mV 0C Model Recovery 'GenClockDCF:inst1|CLK_ENA_HZ_sync_out'
+Slack : -2.296
+TNS   : -12.708
+
+Type  : Slow 1200mV 0C Model Recovery 'timeAndDateClock:inst2|year_carry'
+Slack : -2.010
+TNS   : -15.636
+
+Type  : Slow 1200mV 0C Model Recovery 'dcf77_decoder:inst|counter_decoder[0]'
+Slack : -1.869
+TNS   : -1.869
+
+Type  : Slow 1200mV 0C Model Removal 'dcf77_decoder:inst|counter_decoder[0]'
+Slack : 0.309
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'GenClockDCF:inst1|CLK_ENA_HZ_async_out'
+Slack : 0.321
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'timeAndDateClock:inst2|day_carry'
+Slack : 0.344
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'timeAndDateClock:inst2|hour_carry'
+Slack : 0.371
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'timeAndDateClock:inst2|mon_carry'
+Slack : 0.384
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'timeAndDateClock:inst2|min_carry'
+Slack : 0.450
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'timeAndDateClock:inst2|year_carry'
+Slack : 0.560
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'GenClockDCF:inst1|CLK_ENA_HZ_sync_out'
+Slack : 1.232
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'GenClockDCF:inst1|CLK_ENA_HZ_async_out'
+Slack : -1.000
+TNS   : -50.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'timeAndDateClock:inst2|day_carry'
+Slack : -1.000
+TNS   : -10.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'timeAndDateClock:inst2|min_carry'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'timeAndDateClock:inst2|year_carry'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'GenClockDCF:inst1|CLK_ENA_HZ_sync_out'
+Slack : -1.000
+TNS   : -7.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'timeAndDateClock:inst2|hour_carry'
+Slack : -1.000
+TNS   : -7.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'timeAndDateClock:inst2|mon_carry'
+Slack : -1.000
+TNS   : -6.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'dcf77_decoder:inst|counter_decoder[0]'
+Slack : -0.229
+TNS   : -7.934
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.818
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst3|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 49.741
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'inst3|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -4.213
+TNS   : -203.876
+
+Type  : Fast 1200mV 0C Model Setup 'timeAndDateClock:inst2|day_carry'
+Slack : -3.073
+TNS   : -25.975
+
+Type  : Fast 1200mV 0C Model Setup 'dcf77_decoder:inst|counter_decoder[0]'
+Slack : -2.524
+TNS   : -122.807
+
+Type  : Fast 1200mV 0C Model Setup 'timeAndDateClock:inst2|hour_carry'
+Slack : -2.368
+TNS   : -15.106
+
+Type  : Fast 1200mV 0C Model Setup 'timeAndDateClock:inst2|mon_carry'
+Slack : -2.231
+TNS   : -12.768
+
+Type  : Fast 1200mV 0C Model Setup 'GenClockDCF:inst1|CLK_ENA_HZ_async_out'
+Slack : -2.107
+TNS   : -56.880
+
+Type  : Fast 1200mV 0C Model Setup 'timeAndDateClock:inst2|min_carry'
+Slack : -1.918
+TNS   : -14.569
+
+Type  : Fast 1200mV 0C Model Setup 'timeAndDateClock:inst2|year_carry'
+Slack : -1.671
+TNS   : -13.025
+
+Type  : Fast 1200mV 0C Model Setup 'GenClockDCF:inst1|CLK_ENA_HZ_sync_out'
+Slack : -0.618
+TNS   : -2.213
+
+Type  : Fast 1200mV 0C Model Hold 'dcf77_decoder:inst|counter_decoder[0]'
+Slack : -0.130
+TNS   : -0.606
+
+Type  : Fast 1200mV 0C Model Hold 'inst3|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.177
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'GenClockDCF:inst1|CLK_ENA_HZ_sync_out'
+Slack : 0.183
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'GenClockDCF:inst1|CLK_ENA_HZ_async_out'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'timeAndDateClock:inst2|year_carry'
+Slack : 0.298
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'timeAndDateClock:inst2|mon_carry'
+Slack : 0.510
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'timeAndDateClock:inst2|min_carry'
+Slack : 0.522
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'timeAndDateClock:inst2|day_carry'
+Slack : 0.536
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'timeAndDateClock:inst2|hour_carry'
+Slack : 0.549
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'timeAndDateClock:inst2|mon_carry'
+Slack : -1.571
+TNS   : -7.576
+
+Type  : Fast 1200mV 0C Model Recovery 'timeAndDateClock:inst2|min_carry'
+Slack : -1.558
+TNS   : -10.302
+
+Type  : Fast 1200mV 0C Model Recovery 'timeAndDateClock:inst2|hour_carry'
+Slack : -1.511
+TNS   : -8.782
+
+Type  : Fast 1200mV 0C Model Recovery 'GenClockDCF:inst1|CLK_ENA_HZ_async_out'
+Slack : -1.333
+TNS   : -56.582
+
+Type  : Fast 1200mV 0C Model Recovery 'timeAndDateClock:inst2|day_carry'
+Slack : -1.261
+TNS   : -11.093
+
+Type  : Fast 1200mV 0C Model Recovery 'GenClockDCF:inst1|CLK_ENA_HZ_sync_out'
+Slack : -1.235
+TNS   : -6.641
+
+Type  : Fast 1200mV 0C Model Recovery 'timeAndDateClock:inst2|year_carry'
+Slack : -1.010
+TNS   : -7.796
+
+Type  : Fast 1200mV 0C Model Recovery 'dcf77_decoder:inst|counter_decoder[0]'
+Slack : -0.794
+TNS   : -0.794
+
+Type  : Fast 1200mV 0C Model Removal 'dcf77_decoder:inst|counter_decoder[0]'
+Slack : 0.221
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'timeAndDateClock:inst2|hour_carry'
+Slack : 0.257
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'timeAndDateClock:inst2|mon_carry'
+Slack : 0.258
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'GenClockDCF:inst1|CLK_ENA_HZ_async_out'
+Slack : 0.261
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'timeAndDateClock:inst2|day_carry'
+Slack : 0.287
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'timeAndDateClock:inst2|min_carry'
+Slack : 0.317
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'timeAndDateClock:inst2|year_carry'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'GenClockDCF:inst1|CLK_ENA_HZ_sync_out'
+Slack : 0.524
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'GenClockDCF:inst1|CLK_ENA_HZ_async_out'
+Slack : -1.000
+TNS   : -50.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'timeAndDateClock:inst2|day_carry'
+Slack : -1.000
+TNS   : -10.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'timeAndDateClock:inst2|min_carry'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'timeAndDateClock:inst2|year_carry'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'GenClockDCF:inst1|CLK_ENA_HZ_sync_out'
+Slack : -1.000
+TNS   : -7.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'timeAndDateClock:inst2|hour_carry'
+Slack : -1.000
+TNS   : -7.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'timeAndDateClock:inst2|mon_carry'
+Slack : -1.000
+TNS   : -6.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'dcf77_decoder:inst|counter_decoder[0]'
+Slack : 0.029
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.587
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst3|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 49.749
+TNS   : 0.000
+
+------------------------------------------------------------

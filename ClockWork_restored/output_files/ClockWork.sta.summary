@@ -1,0 +1,269 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'inst9|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -4.993
+TNS   : -209.903
+
+Type  : Slow 1200mV 85C Model Setup 'timeAndDateClock:inst|day_carry'
+Slack : -3.994
+TNS   : -28.022
+
+Type  : Slow 1200mV 85C Model Setup 'timeAndDateClock:inst|hour_carry'
+Slack : -1.826
+TNS   : -10.010
+
+Type  : Slow 1200mV 85C Model Setup 'timeAndDateClock:inst|min_carry'
+Slack : -1.312
+TNS   : -8.596
+
+Type  : Slow 1200mV 85C Model Setup 'timeAndDateClock:inst|year_carry'
+Slack : -1.310
+TNS   : -8.005
+
+Type  : Slow 1200mV 85C Model Setup 'clkGen_verilog:inst10|clk_enable'
+Slack : -1.278
+TNS   : -33.228
+
+Type  : Slow 1200mV 85C Model Setup 'timeAndDateClock:inst|mon_carry'
+Slack : -1.233
+TNS   : -5.952
+
+Type  : Slow 1200mV 85C Model Hold 'inst9|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.314
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clkGen_verilog:inst10|clk_enable'
+Slack : 0.357
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'timeAndDateClock:inst|day_carry'
+Slack : 0.494
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'timeAndDateClock:inst|year_carry'
+Slack : 0.680
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'timeAndDateClock:inst|mon_carry'
+Slack : 0.706
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'timeAndDateClock:inst|min_carry'
+Slack : 0.882
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'timeAndDateClock:inst|hour_carry'
+Slack : 0.959
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clkGen_verilog:inst10|clk_enable'
+Slack : -1.000
+TNS   : -50.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'timeAndDateClock:inst|day_carry'
+Slack : -1.000
+TNS   : -10.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'timeAndDateClock:inst|min_carry'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'timeAndDateClock:inst|year_carry'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'timeAndDateClock:inst|hour_carry'
+Slack : -1.000
+TNS   : -7.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'timeAndDateClock:inst|mon_carry'
+Slack : -1.000
+TNS   : -6.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.835
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst9|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 49.743
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'inst9|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -4.293
+TNS   : -176.548
+
+Type  : Slow 1200mV 0C Model Setup 'timeAndDateClock:inst|day_carry'
+Slack : -3.486
+TNS   : -24.172
+
+Type  : Slow 1200mV 0C Model Setup 'timeAndDateClock:inst|hour_carry'
+Slack : -1.559
+TNS   : -8.270
+
+Type  : Slow 1200mV 0C Model Setup 'timeAndDateClock:inst|min_carry'
+Slack : -1.111
+TNS   : -7.030
+
+Type  : Slow 1200mV 0C Model Setup 'timeAndDateClock:inst|year_carry'
+Slack : -1.088
+TNS   : -6.466
+
+Type  : Slow 1200mV 0C Model Setup 'clkGen_verilog:inst10|clk_enable'
+Slack : -1.082
+TNS   : -25.538
+
+Type  : Slow 1200mV 0C Model Setup 'timeAndDateClock:inst|mon_carry'
+Slack : -0.985
+TNS   : -4.674
+
+Type  : Slow 1200mV 0C Model Hold 'inst9|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.298
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clkGen_verilog:inst10|clk_enable'
+Slack : 0.313
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'timeAndDateClock:inst|day_carry'
+Slack : 0.437
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'timeAndDateClock:inst|year_carry'
+Slack : 0.607
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'timeAndDateClock:inst|mon_carry'
+Slack : 0.637
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'timeAndDateClock:inst|min_carry'
+Slack : 0.799
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'timeAndDateClock:inst|hour_carry'
+Slack : 0.866
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clkGen_verilog:inst10|clk_enable'
+Slack : -1.000
+TNS   : -50.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'timeAndDateClock:inst|day_carry'
+Slack : -1.000
+TNS   : -10.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'timeAndDateClock:inst|min_carry'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'timeAndDateClock:inst|year_carry'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'timeAndDateClock:inst|hour_carry'
+Slack : -1.000
+TNS   : -7.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'timeAndDateClock:inst|mon_carry'
+Slack : -1.000
+TNS   : -6.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.818
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst9|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 49.743
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'inst9|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -2.560
+TNS   : -100.559
+
+Type  : Fast 1200mV 0C Model Setup 'timeAndDateClock:inst|day_carry'
+Slack : -1.930
+TNS   : -12.203
+
+Type  : Fast 1200mV 0C Model Setup 'timeAndDateClock:inst|hour_carry'
+Slack : -0.546
+TNS   : -2.623
+
+Type  : Fast 1200mV 0C Model Setup 'clkGen_verilog:inst10|clk_enable'
+Slack : -0.308
+TNS   : -2.441
+
+Type  : Fast 1200mV 0C Model Setup 'timeAndDateClock:inst|year_carry'
+Slack : -0.299
+TNS   : -1.193
+
+Type  : Fast 1200mV 0C Model Setup 'timeAndDateClock:inst|min_carry'
+Slack : -0.296
+TNS   : -1.564
+
+Type  : Fast 1200mV 0C Model Setup 'timeAndDateClock:inst|mon_carry'
+Slack : -0.259
+TNS   : -1.083
+
+Type  : Fast 1200mV 0C Model Hold 'inst9|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.154
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clkGen_verilog:inst10|clk_enable'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'timeAndDateClock:inst|day_carry'
+Slack : 0.265
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'timeAndDateClock:inst|year_carry'
+Slack : 0.353
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'timeAndDateClock:inst|mon_carry'
+Slack : 0.371
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'timeAndDateClock:inst|min_carry'
+Slack : 0.469
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'timeAndDateClock:inst|hour_carry'
+Slack : 0.506
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clkGen_verilog:inst10|clk_enable'
+Slack : -1.000
+TNS   : -50.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'timeAndDateClock:inst|day_carry'
+Slack : -1.000
+TNS   : -10.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'timeAndDateClock:inst|min_carry'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'timeAndDateClock:inst|year_carry'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'timeAndDateClock:inst|hour_carry'
+Slack : -1.000
+TNS   : -7.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'timeAndDateClock:inst|mon_carry'
+Slack : -1.000
+TNS   : -6.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.587
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst9|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 49.752
+TNS   : 0.000
+
+------------------------------------------------------------

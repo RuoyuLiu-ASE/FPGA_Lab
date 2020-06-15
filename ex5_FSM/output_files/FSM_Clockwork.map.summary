@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Jun 15 11:40:18 2020
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Standard Edition
+Revision Name : FSM_Clockwork
+Top-level Entity Name : Clcokwork_ex5
+Family : Cyclone IV E
+Total logic elements : 1,408
+    Total combinational functions : 1,337
+    Dedicated logic registers : 531
+Total registers : 531
+Total pins : 17
+Total virtual pins : 0
+Total memory bits : 512
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1

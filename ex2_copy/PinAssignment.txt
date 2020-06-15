@@ -1,0 +1,15 @@
+To,           Location
+clock_5,     PIN_R8
+
+reset,       PIN_J15
+key1,       PIN_E1 
+
+
+LED[0],       PIN_A15
+LED[1],       PIN_A13
+LED[2],       PIN_B13
+LED[3],       PIN_A11
+LED[4],       PIN_D1 
+LED[5],       PIN_F3 
+LED[6],       PIN_B1 
+LED[7],       PIN_L3 

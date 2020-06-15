@@ -1,0 +1,344 @@
+// Copyright (C) 2017  Intel Corporation. All rights reserved.
+// Your use of Intel Corporation's design tools, logic functions 
+// and other software and tools, and its AMPP partner logic 
+// functions, and any output files from any of the foregoing 
+// (including device programming or simulation files), and any 
+// associated documentation or information are expressly subject 
+// to the terms and conditions of the Intel Program License 
+// Subscription Agreement, the Intel Quartus Prime License Agreement,
+// the Intel FPGA IP License Agreement, or other applicable license
+// agreement, including, without limitation, that your use is for
+// the sole purpose of programming logic devices manufactured by
+// Intel and sold by Intel or its authorized distributors.  Please
+// refer to the applicable agreement for further details.
+
+// *****************************************************************************
+// This file contains a Verilog test bench with test vectors .The test vectors  
+// are exported from a vector file in the Quartus Waveform Editor and apply to  
+// the top level entity of the current Quartus project .The user can use this   
+// testbench to simulate his design using a third-party simulation tool .       
+// *****************************************************************************
+// Generated on "06/03/2020 19:21:37"
+                                                                                
+// Verilog Test Bench (with test vectors) for design :                          ClockWork
+// 
+// Simulation tool : 3rd Party
+// 
+
+`timescale 1 ps/ 1 ps
+module ClockWork_vlg_vec_tst();
+// constants                                           
+// general purpose registers
+reg CLOCK_50;
+reg [0:0] KEY;
+reg [7:0] treg_LCD_Data_IO;
+reg [43:0] time_in;
+// wires                                               
+wire [7:0] LCD_Data_IO;
+wire LCD_Enable_out;
+wire LCD_RS_out;
+wire LCD_RW_out;
+
+// assign statements (if any)                          
+assign LCD_Data_IO = treg_LCD_Data_IO;
+ClockWork i1 (
+// port map - connection between master ports and signals/registers   
+	.CLOCK_50(CLOCK_50),
+	.KEY(KEY),
+	.LCD_Data_IO(LCD_Data_IO),
+	.LCD_Enable_out(LCD_Enable_out),
+	.LCD_RS_out(LCD_RS_out),
+	.LCD_RW_out(LCD_RW_out),
+	.time_in(time_in)
+);
+initial 
+begin 
+#6000000 $stop;
+end 
+
+// CLOCK_50
+always
+begin
+	CLOCK_50 = 1'b0;
+	CLOCK_50 = #10000 1'b1;
+	#10000;
+end 
+
+// KEY[0]
+initial
+begin
+	KEY[0] = 1'b1;
+	KEY[0] = #10000 1'b0;
+	KEY[0] = #20000 1'b1;
+	KEY[0] = #969000 1'b0;
+end 
+// LCD_Data_IO[ 7 ]
+initial
+begin
+	treg_LCD_Data_IO[7] = 1'bZ;
+	treg_LCD_Data_IO[7] = #999000 1'b0;
+end 
+// LCD_Data_IO[ 6 ]
+initial
+begin
+	treg_LCD_Data_IO[6] = 1'bZ;
+	treg_LCD_Data_IO[6] = #999000 1'b0;
+end 
+// LCD_Data_IO[ 5 ]
+initial
+begin
+	treg_LCD_Data_IO[5] = 1'bZ;
+	treg_LCD_Data_IO[5] = #999000 1'b0;
+end 
+// LCD_Data_IO[ 4 ]
+initial
+begin
+	treg_LCD_Data_IO[4] = 1'bZ;
+	treg_LCD_Data_IO[4] = #999000 1'b0;
+end 
+// LCD_Data_IO[ 3 ]
+initial
+begin
+	treg_LCD_Data_IO[3] = 1'bZ;
+	treg_LCD_Data_IO[3] = #999000 1'b0;
+end 
+// LCD_Data_IO[ 2 ]
+initial
+begin
+	treg_LCD_Data_IO[2] = 1'bZ;
+	treg_LCD_Data_IO[2] = #999000 1'b0;
+end 
+// LCD_Data_IO[ 1 ]
+initial
+begin
+	treg_LCD_Data_IO[1] = 1'bZ;
+	treg_LCD_Data_IO[1] = #999000 1'b0;
+end 
+// LCD_Data_IO[ 0 ]
+initial
+begin
+	treg_LCD_Data_IO[0] = 1'bZ;
+	treg_LCD_Data_IO[0] = #999000 1'b0;
+end 
+// time_in[ 43 ]
+initial
+begin
+	time_in[43] = 1'b0;
+end 
+// time_in[ 42 ]
+initial
+begin
+	time_in[42] = 1'b0;
+end 
+// time_in[ 41 ]
+initial
+begin
+	time_in[41] = 1'b0;
+end 
+// time_in[ 40 ]
+initial
+begin
+	time_in[40] = 1'b1;
+end 
+// time_in[ 39 ]
+initial
+begin
+	time_in[39] = 1'b0;
+end 
+// time_in[ 38 ]
+initial
+begin
+	time_in[38] = 1'b0;
+end 
+// time_in[ 37 ]
+initial
+begin
+	time_in[37] = 1'b0;
+end 
+// time_in[ 36 ]
+initial
+begin
+	time_in[36] = 1'b1;
+end 
+// time_in[ 35 ]
+initial
+begin
+	time_in[35] = 1'b0;
+end 
+// time_in[ 34 ]
+initial
+begin
+	time_in[34] = 1'b0;
+end 
+// time_in[ 33 ]
+initial
+begin
+	time_in[33] = 1'b0;
+end 
+// time_in[ 32 ]
+initial
+begin
+	time_in[32] = 1'b0;
+end 
+// time_in[ 31 ]
+initial
+begin
+	time_in[31] = 1'b0;
+end 
+// time_in[ 30 ]
+initial
+begin
+	time_in[30] = 1'b0;
+end 
+// time_in[ 29 ]
+initial
+begin
+	time_in[29] = 1'b0;
+end 
+// time_in[ 28 ]
+initial
+begin
+	time_in[28] = 1'b0;
+end 
+// time_in[ 27 ]
+initial
+begin
+	time_in[27] = 1'b0;
+end 
+// time_in[ 26 ]
+initial
+begin
+	time_in[26] = 1'b1;
+end 
+// time_in[ 25 ]
+initial
+begin
+	time_in[25] = 1'b1;
+end 
+// time_in[ 24 ]
+initial
+begin
+	time_in[24] = 1'b1;
+end 
+// time_in[ 23 ]
+initial
+begin
+	time_in[23] = 1'b0;
+end 
+// time_in[ 22 ]
+initial
+begin
+	time_in[22] = 1'b0;
+end 
+// time_in[ 21 ]
+initial
+begin
+	time_in[21] = 1'b0;
+end 
+// time_in[ 20 ]
+initial
+begin
+	time_in[20] = 1'b1;
+end 
+// time_in[ 19 ]
+initial
+begin
+	time_in[19] = 1'b1;
+end 
+// time_in[ 18 ]
+initial
+begin
+	time_in[18] = 1'b0;
+end 
+// time_in[ 17 ]
+initial
+begin
+	time_in[17] = 1'b0;
+end 
+// time_in[ 16 ]
+initial
+begin
+	time_in[16] = 1'b0;
+end 
+// time_in[ 15 ]
+initial
+begin
+	time_in[15] = 1'b1;
+end 
+// time_in[ 14 ]
+initial
+begin
+	time_in[14] = 1'b1;
+end 
+// time_in[ 13 ]
+initial
+begin
+	time_in[13] = 1'b1;
+end 
+// time_in[ 12 ]
+initial
+begin
+	time_in[12] = 1'b0;
+end 
+// time_in[ 11 ]
+initial
+begin
+	time_in[11] = 1'b1;
+end 
+// time_in[ 10 ]
+initial
+begin
+	time_in[10] = 1'b1;
+end 
+// time_in[ 9 ]
+initial
+begin
+	time_in[9] = 1'b0;
+end 
+// time_in[ 8 ]
+initial
+begin
+	time_in[8] = 1'b0;
+end 
+// time_in[ 7 ]
+initial
+begin
+	time_in[7] = 1'b1;
+end 
+// time_in[ 6 ]
+initial
+begin
+	time_in[6] = 1'b1;
+end 
+// time_in[ 5 ]
+initial
+begin
+	time_in[5] = 1'b0;
+end 
+// time_in[ 4 ]
+initial
+begin
+	time_in[4] = 1'b0;
+end 
+// time_in[ 3 ]
+initial
+begin
+	time_in[3] = 1'b0;
+end 
+// time_in[ 2 ]
+initial
+begin
+	time_in[2] = 1'b1;
+end 
+// time_in[ 1 ]
+initial
+begin
+	time_in[1] = 1'b0;
+end 
+// time_in[ 0 ]
+initial
+begin
+	time_in[0] = 1'b1;
+end 
+endmodule
+

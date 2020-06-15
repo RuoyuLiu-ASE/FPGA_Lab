@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Thu Jun 04 18:49:03 2020
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Standard Edition
+Revision Name : ClockWork
+Top-level Entity Name : ClockWork
+Family : Cyclone IV E
+Total logic elements : 546
+    Total combinational functions : 510
+    Dedicated logic registers : 274
+Total registers : 274
+Total pins : 14
+Total virtual pins : 0
+Total memory bits : 512
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1

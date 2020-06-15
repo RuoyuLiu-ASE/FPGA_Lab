@@ -1,0 +1,27 @@
+Quartus Prime Archive log --	D:/quartus17/project/ex2_copy/counter_withoutBDF.qarlog
+
+Archive:	D:/quartus17/project/ex2_copy/counter_withoutBDF.qar
+Date:		Thu Jun 04 20:54:48 2020
+Quartus Prime		17.1.0 Build 590 10/25/2017 SJ Standard Edition
+
+	=========== Files Selected: ===========
+D:/quartus17/project/ex2_copy/8_bit_updown_counter.sdc
+D:/quartus17/project/ex2_copy/clkEnable.v
+D:/quartus17/project/ex2_copy/counter_withoutBDF.qpf
+D:/quartus17/project/ex2_copy/counter_withoutBDF.qsf
+D:/quartus17/project/ex2_copy/my_first_fpga.sdc
+D:/quartus17/project/ex2_copy/simulation/modelsim/top.vt
+D:/quartus17/project/ex2_copy/tb_top.v
+D:/quartus17/project/ex2_copy/top.v
+D:/quartus17/project/ex2_copy/updown_counter.v
+d:/intelfpga/17.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 10 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Sat Jun 13 10:53:02 2020
+Source archive file:	D:/quartus17/project/ex2_copy/counter_withoutBDF.qar
+Archive was extracted into	D:/quartus17/project/ex2_copy/counter_withoutBDF_restored/
+		 - successfully.

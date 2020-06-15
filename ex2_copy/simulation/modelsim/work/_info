@@ -1,0 +1,99 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/quartus17/project/ex2_copy/simulation/modelsim
+vclkEnable
+Z1 !s110 1590513145
+!i10b 1
+!s100 4j9b>Y1f2SdgO^]>W>51N3
+IZ;an96@4FDL55FAc<hDj=2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1590010613
+8D:/quartus17/project/ex2_copy/clkEnable.v
+FD:/quartus17/project/ex2_copy/clkEnable.v
+L0 6
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1590513145.000000
+!s107 D:/quartus17/project/ex2_copy/clkEnable.v|
+!s90 -reportprogress|300|-work|work|-cover|sbcex3|-stats=none|D:/quartus17/project/ex2_copy/clkEnable.v|
+!i113 1
+Z5 !s102 -cover sbcex3
+Z6 o-work work -cover sbcex3
+Z7 tCvgOpt 0
+nclk@enable
+vtb_top
+R1
+!i10b 1
+!s100 LCd;`9^gizl<WBRF1i:R^1
+Ij:D^2l3diS`7=`Ec0@m0E0
+R2
+R0
+w1531845466
+8D:/quartus17/project/ex2_copy/tb_top.v
+FD:/quartus17/project/ex2_copy/tb_top.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/quartus17/project/ex2_copy/tb_top.v|
+!s90 -reportprogress|300|-work|work|-cover|sbcex3|-stats=none|D:/quartus17/project/ex2_copy/tb_top.v|
+!i113 1
+R5
+R6
+R7
+vtop
+R1
+!i10b 1
+!s100 L8_bhKMg0z]oaL^9lf3oi2
+ITzlQW9enDg_i_g>1GnB8E0
+R2
+R0
+w1589988457
+8D:/quartus17/project/ex2_copy/top.v
+FD:/quartus17/project/ex2_copy/top.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/quartus17/project/ex2_copy/top.v|
+!s90 -reportprogress|300|-work|work|-cover|sbcex3|-stats=none|D:/quartus17/project/ex2_copy/top.v|
+!i113 1
+R5
+R6
+R7
+vupdown_counter
+R1
+!i10b 1
+!s100 mDjB4B?9H^>BF8Slh:d>n0
+IjPin6CQmEPC@N3elNF=:j0
+R2
+R0
+w1590002874
+8D:/quartus17/project/ex2_copy/updown_counter.v
+FD:/quartus17/project/ex2_copy/updown_counter.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/quartus17/project/ex2_copy/updown_counter.v|
+!s90 -reportprogress|300|-work|work|-cover|sbcex3|-stats=none|D:/quartus17/project/ex2_copy/updown_counter.v|
+!i113 1
+R5
+R6
+R7

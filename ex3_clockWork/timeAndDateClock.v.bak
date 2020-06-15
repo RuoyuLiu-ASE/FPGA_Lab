@@ -1,0 +1,29 @@
+// ------------------------------------------------------------------------- --
+// Title         : Clockwork
+// Project       : Praktikum FPGA-Entwurfstechnik
+// ------------------------------------------------------------------------- --
+// File          : timeAndDateClock.v
+// Author        : Shutao Zhang
+// Company       : IDS RWTH Aachen 
+// Created       : 2018/08/16
+// ------------------------------------------------------------------------- --
+// Description   : Clockwork for a DCF77 radio-controlled clock
+// ------------------------------------------------------------------------- --
+// Revisions     :
+// Date        Version  Author  Description
+// 2018/08/16  1.0      SH      Created
+// 2018/09/20  1.1      TS      Clean up, comments
+// ------------------------------------------------------------------------- --
+
+module timeAndDateClock(input clk,                // global 10Mhz clock
+                        input clkEn1Hz,           // 1Hz clock
+                        input nReset,             // asynchronous reset (active low)  
+                        input setTimeAndDate_in,  
+                        input[43:0] timeAndDate_In,     
+                        output reg[43:0] timeAndDate_Out);   
+
+// ---------- YOUR CODE HERE ---------- 
+
+
+
+endmodule

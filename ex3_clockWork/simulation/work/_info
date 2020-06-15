@@ -1,0 +1,63 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/quartus17/self_project/test1/simulation/modelsim
+vtb_clock
+Z1 !s110 1590952562
+!i10b 1
+!s100 0V@gWlJBRQH_4Oh@NG[>i1
+I^9:PAGeLQB@3H:nYInoM=0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/quartus17/project/ex3_clockWork/simulation
+w1590948301
+8D:\quartus17\project\ex3_clockWork\tb_clock.v
+FD:\quartus17\project\ex3_clockWork\tb_clock.v
+L0 3
+Z4 OL;L;10.5;63
+r1
+!s85 0
+31
+!s108 1590952562.000000
+!s107 D:\quartus17\project\ex3_clockWork\tb_clock.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\quartus17\project\ex3_clockWork\tb_clock.v|
+!i113 0
+o-work work
+Z5 tCvgOpt 0
+Ttb_clock_opt
+!s110 1590951922
+VjPoaPhcMUDeL28OA_:HRU3
+04 8 4 work tb_clock fast 0
+o+acc
+R5
+ntb_clock_opt
+OL;O;10.5;63
+R0
+vtimeAndDateClock
+R1
+!i10b 1
+!s100 MX>;GeWET4IeISa]g`a`=3
+IVjYGQWVcoe=Jm]MdIW<N70
+R2
+R3
+w1590951838
+8D:\quartus17\project\ex3_clockWork\timeAndDateClock.v
+FD:\quartus17\project\ex3_clockWork\timeAndDateClock.v
+L0 18
+R4
+r1
+!s85 0
+31
+!s108 1590952561.000000
+!s107 D:\quartus17\project\ex3_clockWork\timeAndDateClock.v|
+!s90 -reportprogress|300|-work|work|-vopt|-cover|sbcex3|-stats=none|D:\quartus17\project\ex3_clockWork\timeAndDateClock.v|
+!i113 0
+!s102 -cover sbcex3
+o-work work -cover sbcex3
+R5
+ntime@and@date@clock

@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/quartus17/project/ex3_Version2/simulation/qsim
+vClockWork
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 ^:PCC`dZTI@[7`RA4lS8_3
+I>5FlOf2@CeHSPhZ3kTg?l3
+R0
+w1591206338
+8ClockWork.vo
+FClockWork.vo
+L0 31
+Z2 OL;L;10.5;63
+Z3 !s108 1591206342.000000
+!s107 ClockWork.vo|
+!s90 -work|work|ClockWork.vo|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+n@clock@work
+vClockWork_vlg_vec_tst
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 KAC=zWgOA94S7>>hTN=b33
+ITY??FzG9FH=BQI:2iYiKP3
+R0
+w1591206337
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 29
+R2
+R3
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 0
+R4
+R5
+n@clock@work_vlg_vec_tst

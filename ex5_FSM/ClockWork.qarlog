@@ -1,0 +1,33 @@
+Quartus Prime Archive log --	D:/quartus17/project/ClockWork_restored/ClockWork.qarlog
+
+Archive:	D:/quartus17/project/ClockWork_restored/ClockWork.qar
+Date:		Thu Jun 04 21:02:49 2020
+Quartus Prime		17.1.0 Build 590 10/25/2017 SJ Standard Edition
+
+	=========== Files Selected: ===========
+D:/quartus17/project/ClockWork_restored/Clk_10M.bsf
+D:/quartus17/project/ClockWork_restored/Clk_10M.ppf
+D:/quartus17/project/ClockWork_restored/Clk_10M.qip
+D:/quartus17/project/ClockWork_restored/Clk_10M.v
+D:/quartus17/project/ClockWork_restored/Clk_10M_bb.v
+D:/quartus17/project/ClockWork_restored/ClockWork.bdf
+D:/quartus17/project/ClockWork_restored/ClockWork.qpf
+D:/quartus17/project/ClockWork_restored/ClockWork.qsf
+D:/quartus17/project/ClockWork_restored/FIFO.vhd
+D:/quartus17/project/ClockWork_restored/LCDsteuerung.vhd
+D:/quartus17/project/ClockWork_restored/assignment_defaults.qdf
+D:/quartus17/project/ClockWork_restored/clkEnable.v
+D:/quartus17/project/ClockWork_restored/clkGen_verilog.v
+D:/quartus17/project/ClockWork_restored/lcddriver.vhd
+D:/quartus17/project/ClockWork_restored/pll_1Hz.bsf
+D:/quartus17/project/ClockWork_restored/pll_1Hz.ppf
+D:/quartus17/project/ClockWork_restored/pll_1Hz.qip
+D:/quartus17/project/ClockWork_restored/pll_1Hz.v
+D:/quartus17/project/ClockWork_restored/pll_1Hz_bb.v
+D:/quartus17/project/ClockWork_restored/setFixTimeAndDate.v
+D:/quartus17/project/ClockWork_restored/timeAndDateClock.v
+D:/quartus17/project/ClockWork_restored/updown_counter.v
+	======= Total: 22 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

@@ -1,0 +1,15 @@
+D:/quartus17/project/ex4_DCF/tb_dcf77signal.v {1 {vlog -work work -vopt -stats=none D:/quartus17/project/ex4_DCF/tb_dcf77signal.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module tb_dcf77signal
+
+Top level modules:
+	tb_dcf77signal
+
+} {} {}} D:/quartus17/project/ex4_DCF/GenClockDCF.v {1 {vlog -work work -vopt -stats=none D:/quartus17/project/ex4_DCF/GenClockDCF.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module GenClockDCF
+
+Top level modules:
+	GenClockDCF
+
+} {} {}}

@@ -1,0 +1,15 @@
+D:/quartus17/project/ex5_FSM/control_unit.v {1 {vlog -work work -vopt -stats=none D:/quartus17/project/ex5_FSM/control_unit.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module control_unit
+
+Top level modules:
+	control_unit
+
+} {} {}} D:/quartus17/project/ex5_FSM/tb_control_unit.v {1 {vlog -work work -vopt -stats=none D:/quartus17/project/ex5_FSM/tb_control_unit.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module tb_control_unit
+
+Top level modules:
+	tb_control_unit
+
+} {} {}}

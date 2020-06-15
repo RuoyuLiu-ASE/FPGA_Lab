@@ -1,0 +1,16 @@
+Fitter Status : Successful - Thu Jun 04 18:49:15 2020
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Standard Edition
+Revision Name : ClockWork
+Top-level Entity Name : ClockWork
+Family : Cyclone IV E
+Device : EP4CE22F17C6
+Timing Models : Final
+Total logic elements : 544 / 22,320 ( 2 % )
+    Total combinational functions : 512 / 22,320 ( 2 % )
+    Dedicated logic registers : 274 / 22,320 ( 1 % )
+Total registers : 274
+Total pins : 14 / 154 ( 9 % )
+Total virtual pins : 0
+Total memory bits : 512 / 608,256 ( < 1 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )

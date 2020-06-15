@@ -1,0 +1,36 @@
+Quartus Prime Archive log --	D:/quartus17/project/ex3_Version2/ClockWork.qarlog
+
+Archive:	D:/quartus17/project/ex3_Version2/ClockWork.qar
+Date:		Wed Jun 03 22:52:45 2020
+Quartus Prime		17.1.0 Build 590 10/25/2017 SJ Standard Edition
+
+	=========== Files Selected: ===========
+D:/quartus17/project/ex3_Version2/Clk_10M.bsf
+D:/quartus17/project/ex3_Version2/Clk_10M.ppf
+D:/quartus17/project/ex3_Version2/Clk_10M.qip
+D:/quartus17/project/ex3_Version2/Clk_10M.v
+D:/quartus17/project/ex3_Version2/Clk_10M_bb.v
+D:/quartus17/project/ex3_Version2/ClockWork.bdf
+D:/quartus17/project/ex3_Version2/ClockWork.qpf
+D:/quartus17/project/ex3_Version2/ClockWork.qsf
+D:/quartus17/project/ex3_Version2/FIFO.vhd
+D:/quartus17/project/ex3_Version2/LCDsteuerung.vhd
+D:/quartus17/project/ex3_Version2/Waveform.vwf
+D:/quartus17/project/ex3_Version2/clkGen_verilog.v
+D:/quartus17/project/ex3_Version2/lcddriver.vhd
+D:/quartus17/project/ex3_Version2/output_files/Waveform.vwf
+D:/quartus17/project/ex3_Version2/setFixTimeAndDate.v
+D:/quartus17/project/ex3_Version2/simulation/qsim/Waveform2.vwf
+D:/quartus17/project/ex3_Version2/simulation/qsim/output_files/Waveform.vwf
+D:/quartus17/project/ex3_Version2/timeAndDateClock.v
+d:/intelfpga/17.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 19 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Wed Jun 03 22:56:36 2020
+Source archive file:	D:/quartus17/project/ex3_Version2/ClockWork.qar
+Archive was extracted into	D:/quartus17/project/ClockWork_restored/
+		 - successfully.

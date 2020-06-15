@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at setClock.v(274): always construct contains both blocking and non-blocking assignments File: D:/quartus17/project/ex5_FSM/setClock.v Line: 274

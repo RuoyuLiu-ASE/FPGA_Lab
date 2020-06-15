@@ -1,0 +1,134 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/quartus17/project/ex3_Version2
+vcontrol_unit
+Z1 !s110 1592142685
+!i10b 1
+!s100 Ad`;I2JC8>LH?>jk?l?T02
+I;>jflR24H90McjHRP?EXE0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/quartus17/project/ex5_FSM
+w1591802618
+8D:/quartus17/project/ex5_FSM/control_unit.v
+FD:/quartus17/project/ex5_FSM/control_unit.v
+L0 1
+Z4 OL;L;10.5;63
+r1
+!s85 0
+31
+!s108 1592142684.000000
+!s107 D:/quartus17/project/ex5_FSM/control_unit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/quartus17/project/ex5_FSM/control_unit.v|
+!i113 0
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z6 tCvgOpt 0
+vdcf77_decoder
+Z7 !s110 1591559684
+!i10b 1
+!s100 lU=[o[UW<1Oe^lDF=D0lh1
+IGeToFe_TI1jzEHXA5A4R62
+R2
+Z8 dD:/quartus17/project/ex4_DCF
+w1591547526
+8D:/quartus17/project/ex4_DCF/dcf77_decoder.v
+FD:/quartus17/project/ex4_DCF/dcf77_decoder.v
+L0 17
+R4
+r1
+!s85 0
+31
+Z9 !s108 1591559684.000000
+!s107 D:/quartus17/project/ex4_DCF/dcf77_decoder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/quartus17/project/ex4_DCF/dcf77_decoder.v|
+!i113 0
+R5
+R6
+vGenClockDCF
+R7
+!i10b 1
+!s100 n27M]oM`BSHG0::2aeJUm0
+I0PmC7Oo^98m`D]e_Qhi_F2
+R2
+R8
+w1591470120
+8D:/quartus17/project/ex4_DCF/GenClockDCF.v
+FD:/quartus17/project/ex4_DCF/GenClockDCF.v
+L0 18
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/quartus17/project/ex4_DCF/GenClockDCF.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/quartus17/project/ex4_DCF/GenClockDCF.v|
+!i113 0
+R5
+R6
+n@gen@clock@d@c@f
+vtb_control_unit
+R1
+!i10b 1
+!s100 f2BRfW@Ajl8?_DFeALCj`0
+IA3EoIdDD[h1k=SB9CCZVj0
+R2
+R3
+w1591802124
+8D:/quartus17/project/ex5_FSM/tb_control_unit.v
+FD:/quartus17/project/ex5_FSM/tb_control_unit.v
+L0 3
+R4
+r1
+!s85 0
+31
+!s108 1592142685.000000
+!s107 D:/quartus17/project/ex5_FSM/tb_control_unit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/quartus17/project/ex5_FSM/tb_control_unit.v|
+!i113 0
+R5
+R6
+Ttb_control_unit_opt
+!s110 1592065229
+VE_G0eh=nZ]F4]T2ohC46i2
+04 15 4 work tb_control_unit fast 0
+Z10 o+acc
+R6
+ntb_control_unit_opt
+Z11 OL;O;10.5;63
+R0
+vtb_dcf77signal
+R7
+!i10b 1
+!s100 k]fUdfL5]<C1GeAPJgA4G1
+I]:6O;Z9EV4mkAm1CCHl0K2
+R2
+R8
+w1591534685
+8D:\quartus17\project\ex4_DCF\tb_dcf77signal.v
+FD:\quartus17\project\ex4_DCF\tb_dcf77signal.v
+L0 19
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:\quartus17\project\ex4_DCF\tb_dcf77signal.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\quartus17\project\ex4_DCF\tb_dcf77signal.v|
+!i113 0
+R5
+R6
+Ttb_dcf77signal_opt
+!s110 1591559692
+V[^50hdEf[B=iJ`U_VRO;o2
+04 14 4 work tb_dcf77signal fast 0
+R10
+R6
+ntb_dcf77signal_opt
+R11
+R0

@@ -1,0 +1,16 @@
+Fitter Status : Successful - Mon Jun 15 11:05:14 2020
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Standard Edition
+Revision Name : DCF_decoder
+Top-level Entity Name : DCF_decoder
+Family : Cyclone IV E
+Device : EP4CE22F17C6
+Timing Models : Final
+Total logic elements : 1,107 / 22,320 ( 5 % )
+    Total combinational functions : 1,063 / 22,320 ( 5 % )
+    Dedicated logic registers : 427 / 22,320 ( 2 % )
+Total registers : 427
+Total pins : 20 / 154 ( 13 % )
+Total virtual pins : 0
+Total memory bits : 512 / 608,256 ( < 1 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )
